@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'d:/Documents/Code/Projects/fast-io-lib/src/main/java;d:/Documents/Code/Projects/fast-io-lib/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'d:/Documents/Code/Projects/fast-io-lib/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Fast IO Library 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'd:/Documents/Code/Projects/fast-io-lib/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Fast IO Library 1.0.0 API'
+io.github.arjunnaikk.io
+d:\Documents\Code\Projects\fast-io-lib\src\main\java = 1757747890942
+d:\Documents\Code\Projects\fast-io-lib\target\generated-sources\annotations = 1757748023148
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\allclasses-index.html = 1757748081065
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\allpackages-index.html = 1757748081070
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\copy.svg = 1757748081155
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\element-list = 1757748080980
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\help-doc.html = 1757748081140
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\index-all.html = 1757748081111
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\index.html = 1757748081118
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\link.svg = 1757748081158
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\member-search-index.js = 1757748081076
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\module-search-index.js = 1757748081071
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\overview-tree.html = 1757748081044
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\package-search-index.js = 1757748081073
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\script.js = 1757748081152
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\search-page.js = 1757748081168
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\search.html = 1757748081115
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\search.js = 1757748081164
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\stylesheet.css = 1757748081148
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\tag-search-index.js = 1757748081077
+d:\Documents\Code\Projects\fast-io-lib\target\apidocs\type-search-index.js = 1757748081074
